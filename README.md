@@ -1,4 +1,4 @@
-TsuNmei.github.io
+My Github Page
 ---
 
 https://mzuen.github.io/github.page
