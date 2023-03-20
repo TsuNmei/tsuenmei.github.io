@@ -1,4 +1,5 @@
-My Github Page
+# Jamie Mei's github page
+
 ---
 
-https://mzuen.github.io/github.page
+JamieMei: [網站連結](https://mzuen.github.io/github.page)
